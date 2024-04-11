@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝儿',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'opx1s5pVQuOmNNZKehWpvspPiivU',
+      id: 'opx1s5s1a6YMrIi3UuaQALpd7d_4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '	OpRoyLJWjnQm6586qL-L_MIbKiG865gg-H83VgzmNes',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2024-03-09' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2025-02-14' },
+        { keyword: 'marry_day', date: '2024-03-24' },
       ],
     },
   ],
