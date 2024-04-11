@@ -14,16 +14,16 @@ const USER_CONFIG = {
   APP_SECRET: '5e49dd85c81c3d33b7c4aeb3de2960c3',
 
   PROVINCE: '上海',
-  CITY: '上海',
+  CITY: '宝山',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝儿',
+      name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'opx1s5s1a6YMrIi3UuaQALpd7d_4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '	OpRoyLJWjnQm6586qL-L_MIbKiG865gg-H83VgzmNes',
+      useTemplateId: 'OpRoyLJWjnQm6586qL-L_MIbKiG865gg-H83VgzmNes',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-23',
       festivals: [
